@@ -29,3 +29,12 @@ Protocolos a implementar:
 2. FTP
 3. HTTP
 4. IRC
+
+
+
+Integrantes:
+David Lezcano Becerra
+Alfredo Nuño Oquendo
+
+Grupo: C312
+Protocolo: IRC
