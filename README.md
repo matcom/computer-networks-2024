@@ -29,3 +29,13 @@ Protocolos a implementar:
 2. FTP
 3. HTTP
 4. IRC
+
+## Integrantes
+
+**Grupo 312**
+
+- Álvaro Luis González Brito
+- Álbaro Suárez Valdés
+- Javier Lima García
+
+## Tema FTP
